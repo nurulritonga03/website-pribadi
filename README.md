@@ -1,5 +1,6 @@
 # website-pribadi
 <html>
+<html>
 </html><title>Nurul Hasanah Ritonga Personal Website</title>
 <style type="text/css">body{background-color:rgb(99, 92, 53)}</style>
 <body>
@@ -31,14 +32,17 @@
 </html>
 </nav>
 <center><h1>WELCOME TO LIBRARIES </h1>
-<img src="d:\SEMESTER 6\PENGEMBANGAN WEB\KODING\images.jfif" style="width:1340px;height:300px;" align="middle">
+<img src="![brbs-e](https://github.com/nurulritonga03/website-pribadi/assets/167960326/29d41654-315a-42bf-af3f-ce9e987bb156)
+![Uploading brbs-e.jpg…]()
+![Uploading brbs-e.jpg…]()
+" style="width:1340px;height:300px;" align="middle">
 <hr></hr>
 <center><table border="l">
 <th><h3 style="color:rgb(226, 207, 33)"> About this Website </h3></th>
 <tr>
 <td>
 <p> Halo! Terima kasih telah mengunjungi website ini </p>
-<p style="text-align: justify;"> Website ini dibuat untuk memenuhi tugas pada mata kuliah Pemrograman Web Praktik dengan dosen pengampu Ibu Himma Dewiyana, S.T., M.Hum pada program studi S-1 Perpustakaan dan Sains Informasi, Fakultas Ilmu Budaya, Universitas Sumatera Utara </p>
+<p style="text-align: justify;"> website ini berisi tugas modul pengembangan WEB Pribadi Nurul Hasanah Ritonga  </p>
 </td>
 </tr>
 </table></center>
